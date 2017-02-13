@@ -1,3 +1,7 @@
+#esp8266_FreeRTOS
+Based on the following repositories, this has the code according to my needs. Nomajor functional changes. Feel free to use. 
+
+
 # esp-open-rtos
 
 A community developed open source [FreeRTOS](http://www.freertos.org/)-based framework for ESP8266 WiFi-enabled microcontrollers. Intended for use in both commercial and open source projects.

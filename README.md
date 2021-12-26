@@ -1,9 +1,9 @@
 #esp8266_FreeRTOS
-Based on the following repositories, this has the code according to my needs. Nomajor functional changes. Feel free to use. 
+Based on the following repositories, this has the code according to my needs. No major functional changes. Feel free to use. 
 
 #rBOOT
 
-It is an open source bootloader designed for ESP8266 but Richard A Burton.
+It is an open source bootloader designed for ESP8266 by Richard A Burton.
 http://richard.burtons.org
 
 It is a replacement for the binary blob supplied with the SDK. Advantages-Supports upto 256 roms and written in C.
